@@ -2,8 +2,85 @@ html {
   height: 100%;
 }
 
+header {
+  background-color: royalblue;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 135px;
+}
+
 body {
   margin: 0;
   min-height: 100%;
   font: 16px / 1 sans-serif;
+}
+
+footer {
+  background-color: royalblue;
+  padding: 10px;
+}
+
+footer p {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+footer a {
+  color: white;
+}
+
+#top-div {
+  padding-top: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#top-div p {
+  font-size: 18px;
+}
+
+#bottom-div {
+  padding-top: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#bottom-div p {
+  font-size: 18px;
+}
+
+#rousey-imgs {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#rousey-imgs img {
+  height: 250px;
+  width: auto;
+}
+
+#lower-imgs {
+  padding-left: 150px;
+  padding-right: 150px;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+#sensei {
+  height: 400px;
+  width: auto;
+  display: block;
+  margin: auto;
+}
+
+#whole-crew {
+  height: 400px;
+  width: auto;
+  display: block;
+  margin: auto;
 }
