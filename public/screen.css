@@ -59,6 +59,12 @@ footer a {
   padding-right: 150px;
 }
 
+#rousey-imgs-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 #rousey-imgs img {
   height: 250px;
   width: auto;
@@ -67,8 +73,12 @@ footer a {
 #lower-imgs {
   padding-left: 150px;
   padding-right: 150px;
-  justify-content: space-between;
   padding-bottom: 20px;
+}
+#lower-imgs-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 #sensei {
