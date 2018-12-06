@@ -18,4 +18,4 @@ This webpage was my first project at Suncoast Developers Guild! We were instruct
 
 ### Technologies Used
 
-HTML, CSS, Javascript
+HTML, CSS
